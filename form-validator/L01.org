@@ -1,0 +1,12 @@
+* Welcome to the course
+
+* Getting Setup
+setup
+- prettier
+- emmet
+- Live Server
+- indent size
+
+* Project Intro
+
+* 
